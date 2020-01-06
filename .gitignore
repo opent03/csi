@@ -1,0 +1,10 @@
+# data files
+Dataset/
+lab_processed/
+lab_traintest/
+meeting_processed/
+meeting_traintest/
+weights/
+
+# random
+__pycache__
